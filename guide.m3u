@@ -1,0 +1,63 @@
+#EXTM3U x-tvg-url="guide-favoris.xml"
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~224690346063da36.png/480x480/quality/100/la-une.png",La Une
+http://localhost/LaUne.be
+#EXTINF:-1 tvg-id="LaDeux.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~0018a91b503e458f.png/480x480/quality/100/tipik.png",Tipik
+http://localhost/LaDeux.be
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~eb79eb0d09f03e3c.png/480x480/quality/100/la-trois.png",La Trois
+http://localhost/LaTrois.be
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~8054f5248406c04a.png/480x480/quality/100/rtl-tvi.png",RTL TVI
+http://localhost/RTLTVI.be
+#EXTINF:-1 tvg-id="ClubRTL.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~3891d0661b7ffc86.png/480x480/quality/100/club-rtl.png",Club RTL
+http://localhost/ClubRTL.be
+#EXTINF:-1 tvg-id="PlugRTL.be" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~b97d3ec813b50c9a.png/480x480/quality/100/plug-rtl.png",Plug RTL
+http://localhost/PlugRTL.be
+#EXTINF:-1 tvg-id="MaTele.be" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-fw_3XheZXvJcMifXn55ypj6IQI0IIgNL1zhQjptujNtglQJQaAbhOLA2pA&amp;amp;s",MaTele
+http://localhost/MaTele.be
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~f2b6de26acc4dc3e.png/480x480/quality/100/tf1.png",TF1
+http://localhost/TF1.fr
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~606394a5b095653a.png/480x480/quality/100/france-2.png",France 2
+http://localhost/France2.fr
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~61eebbb6e38360ae.png/480x480/quality/100/france-3.png",France 3
+http://localhost/France3.fr
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e02946cfb82e5310.png/480x480/quality/100/france-4.png",France 4
+http://localhost/France4.fr
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~5f611b705ca3f017.png/480x480/quality/100/france-5.png",France 5
+http://localhost/France5.fr
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~46c2dbade9ac9fed.png/480x480/quality/100/m6.png",M6
+http://localhost/M6.fr
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~d6bb7624abff43ac.png/480x480/quality/100/arte.png",Arte
+http://localhost/Arte.fr
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~15acfc705e2d4dd8.png/480x480/quality/100/w9.png",W9
+http://localhost/W9.fr
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~b2c9618d914140d0.png/480x480/quality/100/tmc.png",TMC
+http://localhost/TMC.fr
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~71e551462d6114e5.png/480x480/quality/100/tfx.png",TFX
+http://localhost/NT1.fr
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~059a8175b83117fd.png/480x480/quality/100/gulli.png",Gulli
+http://localhost/Gulli.fr
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~9583d8a6fa9d6ade.png/480x480/quality/100/cstar.png",CStar
+http://localhost/CStar.fr
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~3deccc95e7e75463.png/480x480/quality/100/t18.png",T18
+http://localhost/T18.fr
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~113b817bb2e5c3a6.png/480x480/quality/100/novo19.png",NOVO19
+http://localhost/NOVO19.fr
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~3104ccb3015a8669.png/480x480/quality/100/tf1-series-films.png",TF1 Séries-Films
+http://localhost/TF1SeriesFilms.fr
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~ceee54072118570a.png/480x480/quality/100/6ter.png",6ter
+http://localhost/6ter.fr
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~56b83775344955b8.png/480x480/quality/100/rmc-story.png",RMC STORY
+http://localhost/Numero23.fr
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~a95c9fa646201300.png/480x480/quality/100/rmc-decouverte.png",RMC Découverte
+http://localhost/RMCDecouverte.fr
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~91bf2b7762746d0c.png/480x480/quality/100/rmc-life.png",RMC Life
+http://localhost/Cherie25.fr
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~648eb1fd8a151da0.png/480x480/quality/100/euronews.png",Euronews
+http://localhost/Euronews.fr
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~0231873fab336015.png/480x480/quality/100/tv5monde.png",TV5 Monde
+http://localhost/TV5Monde.fr
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~08a26d1394c00ba6.png/480x480/quality/100/bbc-1.png",BBC One
+http://localhost/BBC1.uk
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~a0eb22b6cb9cf9b9.png/480x480/quality/100/bbc-2.png",BBC Two
+http://localhost/BBC2.uk
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/500px-AB3_2025.svg.png",AB3
+http://localhost/AB3.fr
