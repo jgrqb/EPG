@@ -43,12 +43,6 @@ for m in re.finditer(
     if ch and ch.group(1) in ids:
         pass
 
-# --- tentative de réglage du fuseau pour le rappel ---
-programmes_xml = [
-    re.sub(r'(start|stop)="(\d{14})\s*[+\-]\d{4}"', r'\1="\2 +0000"', bloc)
-    for bloc in programmes_xml
-]
-
 # --- guide.m3u : squelette de playlist, dans l'ordre de favoris.txt ---
 with open("guide.m3u", "w", encoding="utf-8") as out:
     out.write('#EXTM3U x-tvg-url="guide-favoris.xml"\n')
